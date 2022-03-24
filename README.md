@@ -1,4 +1,4 @@
-# Wooseok Kim
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wooseok_Kim&fontSize=90)
 
 A _Software Engineer_ based in the United States.
 
