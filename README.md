@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wooseok%20Kim&fontSize=90&animation=fadeIn&fontAlignY=40)
 
-<p align="center" style="font-weight: 700;font-size: 24px;">A <i>Software Engineer</i> based in the United States</p>
+<p align="center">A <b><i>Software Engineer</i></b> based in the United States</p>
 
 I'm interested in all aspects of software development. Recently, my passion lies in the web application development including both the front end and the back end. I fell in love with the modern **JavaScript**.
 
