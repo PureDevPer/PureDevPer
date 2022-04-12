@@ -14,6 +14,8 @@ Outside the realm of computers, I enjoy car detailing as a car enthusiast. I res
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puredevper&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puredevper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Personal Website
 
 <a link="https://wooseok.netlify.app/">https://wooseok.netlify.app</a>
