@@ -4,7 +4,7 @@
 
 <h2 align="center">🇰🇷</h2>
 
-I'm interested in all aspects of software development. Recently, my passion lies in the web application development including both the front end and the back end. I fell in love with the modern **JavaScript**.
+I'm interested in all aspects of software development. Recently, my passion lies in the web application development including both the front end and the back end.
 
 Since I was a senior in college, I've liked mobile wireless networks as well. Therefore, I have read new telecommunication technologies such as next generation wireless networks.
 
