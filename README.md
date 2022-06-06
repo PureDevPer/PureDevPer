@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wooseok%20Kim&fontSize=90&animation=fadeIn&fontAlignY=40)
 
-<h1 align="center">A <b><i>Software Engineer</i></b> based in the US <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">A <b><i>Software Engineer</i></b> based in the US <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"></h1>
 
 <h2 align="center">🇰🇷</h2>
 
